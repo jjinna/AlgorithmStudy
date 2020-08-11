@@ -1,3 +1,5 @@
+//https://www.acmicpc.net/problem/17144
+//problem Solved by HZW
 #include<stdio.h>
 struct posi {
 	int first, second;
