@@ -1,3 +1,5 @@
+//https://www.acmicpc.net/problem/18809
+//problem solved by Hzw
 #include<stdio.h>
 #include<string.h>
 #define MAX 5000
